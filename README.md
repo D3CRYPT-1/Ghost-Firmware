@@ -17,3 +17,4 @@ Welcome to Ghost Firmware, an innovative and experimental firmware designed spec
 We would like to emphasize that Ghost Firmware is intended solely for ethical and legal use. We do not condone or support any illegal activities or malicious use of this firmware. Ghost Firmware includes powerful features such as Wi-Fi pen testing, RF analyzing, RFID scanning, BLE operations, and more, providing a comprehensive toolkit for ethical hacking and security research. Our primary goal is to provide a platform for learning, experimentation, and the development of beneficial applications. Users are responsible for ensuring that their projects and activities comply with all applicable laws and ethical standards. By using Ghost Firmware, you agree to respect these principles and use the firmware responsibly. Thank you for choosing Ghost Firmware!
 
 **THIS FIRMWARE HAS BEEN DISSOLVED AND IS NOT LONGER AVAILABLE**
+**ALL FILES HAVE BEEN DELETED INCLUDING FIRMWARE**
